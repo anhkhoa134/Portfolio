@@ -45,12 +45,15 @@ Example Data Science Portfolio
 ### Step 5.1: Using ARIMA to predict Time Series
 * ARIMA algorithm in this case has AIC=27481.476 which is not suitable for future price prediction
 ![](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_1/images/2022-06-25_000409.png)
+
 ### Step 5.2: Using Prophet to predict Time Series
 * Facebook's Prophet algorithm in the early stage is less volatility to predicts high accuracy, but in the later stage is more volatility to predicts low accuracy.
 ![](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_1/images/2022-06-25_183113.png)
+
 ### Step 5.3: Using Supervised Learning to predict Close price based on Open Price
 * We can see that KNeighborsRegressor algorithm gives high score and executes in a short time
 ![](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_1/images/2022-06-25_123233.png)
+
 ### Step 5.4: Using Supervised Learning to predict Close price based on Shift function
 * In this case we have to create 1 Dataframe containing shift price of 15 days
 ![](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_1/images/2022-06-25_183359.png)
