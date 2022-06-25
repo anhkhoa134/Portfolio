@@ -2,7 +2,7 @@
 # Portfolio
 Example Data Science Portfolio
 
-# [Project 1: Using Machine Learning predict Vietnam stock market](https://github.com/anhkhoa134/portfolio/blob/main/Project_1/README.md)
+# [Project 1: Using Machine Learning predict Vietnam stock market](https://github.com/anhkhoa134/portfolio/tree/main/Project_1)
 * Data Crawling: Investpy, BeautifulSoup
 * Data Processing: Pandas, Numpy
 * Stock Filter: RSI indicator
@@ -68,6 +68,6 @@ Example Data Science Portfolio
 * Hoa Phat's stock does not show any signs of growth in the near future, but it is currently priced very well compared to other stocks
 * Suitable to buy in small quantity, medium price
 
-
+[This Project’s GitHub Repository](https://github.com/anhkhoa134/portfolio/tree/main/Project_1)
 
 
