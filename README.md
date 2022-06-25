@@ -13,6 +13,6 @@ Example Data Science Portfolio
   * Algorithm optimization: GridSearchCV
 
 ![Prophet Chart](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_1/images/2022-06-25_183113.png)
-![Plot Chart](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_1/images/2022-06-25_190719.png)
+![Plot Chart](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_1/images/2022-06-25_211443.png)
 
 # [Project 2:](https://www.example.com)
