@@ -29,15 +29,16 @@ Example Data Science Portfolio
 ![](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_1/images/2022-06-25_120940.png)
 
 ## Step 3: Filter to find BUY points of the last 3 days
-We choose a buy point when the RSI line crosses to 70 in the last 3 days (24.06.2020)
+* We choose a buy point when the RSI line crosses to 70 in the last 3 days (24.06.2020)
+* Find 3 symbols that meet the above requirements: TCB(Techcombank), MBB(MBBank), HPG(Hoa Phat Group)
 ![](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_1/images/2022-06-25_120818.png)
 
 ## Step 4: Data Visualization
-##### Price Chart
+**Price Chart**
 ![](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_1/images/2022-06-25_000219.png)
-##### Volume Chart
+**Volume Chart**
 ![](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_1/images/2022-06-25_000306.png)
-##### RSI Chart
+**RSI Chart**
 ![](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_1/images/2022-06-25_000339.png)
 
 ## Step 5: Data Prediction
