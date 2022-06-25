@@ -29,7 +29,7 @@ Example Data Science Portfolio
 ![](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_1/images/2022-06-25_120940.png)
 
 ## Step 3: Filter to find BUY points of the last 3 days
-* We choose a buy point when the RSI line crosses to 70 in the last 3 days (24.06.2020)
+* We choose a buy point when the RSI line crosses up 30 in the last 3 days (24.06.2020)
 * Find 3 symbols that meet the above requirements: TCB (Techcombank), MBB (MBBank), HPG (Hoa Phat Group)
 ![](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_1/images/2022-06-25_120818.png)
 
