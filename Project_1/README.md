@@ -38,3 +38,32 @@ Example Data Science Portfolio
 ![](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_1/images/2022-06-25_000306.png)
 ##### RSI Chart
 ![](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_1/images/2022-06-25_000339.png)
+
+## Step 5: Data Prediction
+### Step 5.1: Using ARIMA to predict Time Series
+![](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_1/images/2022-06-25_000409.png)
+### Step 5.2: Using Prophet to predict Time Series
+![](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_1/images/2022-06-25_183113.png)
+### Step 5.3: Using Supervised Learning to predict Close price based on Open Price
+![](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_1/images/2022-06-25_123233.png)
+### Step 5.4: Using Supervised Learning to predict Close price based on Shift function
+![](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_1/images/2022-06-25_183359.png)
+![](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_1/images/2022-06-25_190653.png)
+![](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_1/images/2022-06-25_211443.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
