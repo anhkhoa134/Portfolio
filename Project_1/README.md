@@ -9,5 +9,7 @@ Example Data Science Portfolio
 * Machine Learning:
   * Time Series prediction: ARIMA, Prophet (Facebook Library)
   * Open, Close price: Unsupervised Learning (LinearRegression, DecisionTreeRegressor, RandomForestRegressor, AdaBoostRegressor, ...)
-![Predict Chart](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_1/images/2022-06-25_190719.png)
+
+![Prophet Chart](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_1/images/2022-06-25_183113.png)
+![Plot Chart](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_1/images/2022-06-25_190719.png)
 
