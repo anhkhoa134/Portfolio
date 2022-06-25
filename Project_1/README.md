@@ -9,7 +9,7 @@ Example Data Science Portfolio
 * Visualization Data: Matplotlib
 * Machine Learning:
   * Time Series Analysis: ARIMA, Prophet (Facebook Library)
-  * Open, Close price: Supervised Learning (LinearRegression, DecisionTreeRegressor, RandomForestRegressor, AdaBoostRegressor, ...)
+  * Price Analysis: Supervised Learning (LinearRegression, DecisionTreeRegressor, RandomForestRegressor, AdaBoostRegressor, ...)
   * Algorithm optimization: GridSearchCV
 
 ![Prophet Chart](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_1/images/2022-06-25_183113.png)
