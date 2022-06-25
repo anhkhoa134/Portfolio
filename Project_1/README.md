@@ -15,7 +15,7 @@ Example Data Science Portfolio
 ![Prophet Chart](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_1/images/2022-06-25_183113.png)
 ![Plot Chart](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_1/images/2022-06-25_211443.png)
 
-# Get Symbols of companies under VN30
+## Step 1: Get Symbols of companies under VN30
 ![](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_1/images/2022-06-25_213418.png)
 
 * Popular Indicators: **RSI, EMA12-36, BB, SMA20-50, MACD, Stochastic,...** in seconds, minutes, days, weeks, months, which are compatible with Short, Medium, Long time strategy
@@ -24,3 +24,17 @@ Example Data Science Portfolio
     * Choose stocks with low volatility
     * Buy price is low now, can **HOLD** for long time
     * We choose **Indicator RSI** for a good **BUY** point
+
+## Step 2: Get the stock price and calculate the RSI
+![](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_1/images/2022-06-25_120940.png)
+
+## Step 3: Filter to find BUY points of the last 3 days
+![](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_1/images/2022-06-25_120818.png)
+
+## Step 4: Data Visualization
+##### Price Chart
+![](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_1/images/2022-06-25_000219.png)
+##### Volume Chart
+![](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_1/images/2022-06-25_000306.png)
+##### RSI Chart
+![](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_1/images/2022-06-25_000339.png)
