@@ -3,10 +3,10 @@
 Example Data Science Portfolio
 
 # [Project 1: Using Machine Learning predict Vietnam stock market](https://github.com/anhkhoa134/portfolio/blob/main/Project_1/README.md)
-* Crawling Data: Investpy, BeautifulSoup
-* Processing Data: Pandas, Numpy
-* Filter Stocks: RSI indicator
-* Visualization Data: Matplotlib
+* Data Crawling: Investpy, BeautifulSoup
+* Data Processing: Pandas, Numpy
+* Stock Filter: RSI indicator
+* Data Visualization: Matplotlib
 * Machine Learning:
   * Time Series Analysis: ARIMA, Prophet (Facebook Library)
   * Price Analysis: Supervised Learning (LinearRegression, DecisionTreeRegressor, RandomForestRegressor, AdaBoostRegressor, ...)
