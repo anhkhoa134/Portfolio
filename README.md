@@ -15,10 +15,7 @@ Example Data Science Portfolio
 
 ![Prophet Chart](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_1/images/2022-06-25_183113.png)
 ![Plot Chart](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_1/images/2022-06-25_211443.png)
-
-
-
-
+# 
 # [Project 2: Using Selenium Automation chooses best selling products on Tiki](https://github.com/anhkhoa134/portfolio/tree/main/Project_2)
 
 * Data Crawling: Selenium
