@@ -8,4 +8,4 @@ Example Data Science Portfolio
 
 ### [Video](https://www.youtube.com/watch?v=qM4knCV9LK8)
 
-![](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_2/images/2022-06-30_001542.png)
+![](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_2/images/2022-06-30_004602.png)
