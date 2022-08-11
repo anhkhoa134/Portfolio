@@ -24,6 +24,9 @@ Example Data Science Portfolio
 
 ### Customers
 ![](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_3/images/2022-08-11_203606.png)
+- New customers are not many, leading to low revenue growth in the period 2017-2018
+- 1-star review accounts for 11.86%, the rate is too high, need to review the quality of products and services
+- In addition, those 1-star reviews are from customers who have a high purchase rate, many orders and very high value per unit => need to stop immediately, look at the cause and fix it immediately.
 
 ### Diagnostic and Predictive
 ![](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_3/images/2022-08-11_203643.png)
