@@ -1,6 +1,3 @@
-# Portfolio
-Example Data Science Portfolio
-
 # [Project 2: Using Selenium Automation chooses best selling products on Tiki](https://github.com/anhkhoa134/portfolio/tree/main/Project_2)
 
 * Data Crawling: Selenium
