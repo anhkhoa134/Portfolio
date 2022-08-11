@@ -1,7 +1,3 @@
-
-# Portfolio
-Example Data Science Portfolio
-
 # [Project 3: Business analysis of E-commerce company by Power BI](https://github.com/anhkhoa134/portfolio/tree/main/Project_3)
 
 * Data Visualization: Power BI
