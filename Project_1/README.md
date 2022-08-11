@@ -1,7 +1,3 @@
-
-# Portfolio
-Example Data Science Portfolio
-
 # [Project 1: Using Machine Learning predicts Vietnam's stock market](https://github.com/anhkhoa134/portfolio/tree/main/Project_1)
 * Data Crawling: Investpy, Pandas
 * Data Processing: Pandas, Numpy, RSI indicator
