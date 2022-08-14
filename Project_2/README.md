@@ -3,7 +3,7 @@ Example Data Science Portfolio
 [https://anhkhoa134.github.io](https://anhkhoa134.github.io/)
 
 
-# [Project 2: Using Selenium Automation chooses best selling products on Tiki](https://github.com/anhkhoa134/portfolio/tree/main/Project_2)
+# [Project 2: Using Selenium to choose best selling products on Tiki](https://github.com/anhkhoa134/portfolio/tree/main/Project_2)
 
 * Data Crawling: Selenium
 * Data Processing: Pandas, Regex
