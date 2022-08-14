@@ -26,3 +26,10 @@ Example Data Science Portfolio
 * Data Visualization: Power BI
 ### Overview
 ![](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_3/images/2022-08-11_203506.png)
+
+#
+# [Project 4: Salary Analysis Of India 2022 By Tableau](https://github.com/anhkhoa134/portfolio/tree/main/Project_4)
+* Data Visualization: Tableau
+### INDIA SALARY OVERVIEW
+![](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_4/images/2022-08-14_074424.png)
+
