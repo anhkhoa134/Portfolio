@@ -34,3 +34,11 @@ Example Data Analyst Portfolio
 ### INDIA SALARY OVERVIEW
 ![](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_4/images/2022-08-14_074424.png)
 
+#
+# [Project 5: Stock price statistics of companies in NASDAQ, S&P500, Dow Jones using data scraping and Excel automation](https://github.com/anhkhoa134/portfolio/tree/main/Project_5)
+* Data Crawling: Yahoo
+* Data Processing: Pandas, Numpy
+* Excel Automation: Xlwt
+![image](https://user-images.githubusercontent.com/108108639/215115100-77de0562-f668-4721-8c69-642121b4b3d5.png)
+
+
