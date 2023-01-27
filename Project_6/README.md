@@ -1,7 +1,7 @@
 # Portfolio
 Example Data Analyst Portfolio
 [https://anhkhoa134.github.io](https://anhkhoa134.github.io/)
-# [Project 5: Create stock price alerts using Python and API Google Drive, Sheets, Telegram](https://github.com/anhkhoa134/portfolio/tree/main/Project_6)
+# [Project 6: Create stock price alerts using Python and API Google Drive, Sheets, Telegram](https://github.com/anhkhoa134/portfolio/tree/main/Project_6)
 
 * Data Crawling: Yahoo, Investpy
 * Data Processing: Pandas, Numpy
