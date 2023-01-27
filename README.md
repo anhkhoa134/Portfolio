@@ -41,4 +41,10 @@ Example Data Analyst Portfolio
 * Excel Automation: Xlwt
 ![image](https://user-images.githubusercontent.com/108108639/215115100-77de0562-f668-4721-8c69-642121b4b3d5.png)
 
+#
+# [Project 6: Create stock price alerts using Python and API Google Drive, Sheets, Telegram](https://github.com/anhkhoa134/portfolio/tree/main/Project_6)
+* Data Crawling: Yahoo, Investpy
+* Data Processing: Pandas, Numpy
+* API Google Drive, Sheets, Telegram
+![2022-12-04_202643](https://user-images.githubusercontent.com/108108639/215137534-5cb2e6c1-0c12-4bf0-82dd-80a58fb02d0c.png)
 
