@@ -10,7 +10,7 @@ Example Data Analyst Portfolio
 
 ### [Video](https://www.youtube.com/watch?v=qM4knCV9LK8)
 
-TIki
+Tiki
 ![2023-05-18_130126](https://github.com/anhkhoa134/portfolio/assets/108108639/0b368a4b-7756-402a-91ab-2761557bcf15)
 
 Mogi
