@@ -10,8 +10,7 @@ Example Data Analyst Portfolio
 
 ### [Video](https://www.youtube.com/watch?v=qM4knCV9LK8)
 
-![](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_2/images/2022-06-30_004602.png)
+![2023-05-18_130126](https://github.com/anhkhoa134/portfolio/assets/108108639/0b368a4b-7756-402a-91ab-2761557bcf15)
 ![2023-05-18_130544](https://github.com/anhkhoa134/portfolio/assets/108108639/9b6ba946-c1d4-416d-afd4-6cff31063316)
 ![2023-05-18_132035](https://github.com/anhkhoa134/portfolio/assets/108108639/2ede1bc5-667d-43cc-9cdb-1fa99b62aa89)
 ![2023-05-18_132214](https://github.com/anhkhoa134/portfolio/assets/108108639/201643f1-90fa-4cc9-82ea-f710bef4b0ba)
-![2023-05-18_130126](https://github.com/anhkhoa134/portfolio/assets/108108639/0b368a4b-7756-402a-91ab-2761557bcf15)
