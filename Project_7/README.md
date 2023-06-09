@@ -15,6 +15,5 @@ SƠ LƯỢC
 -	Dễ dàng nhận thấy ProductLine-R và Style-U có doanh số cao nhất, trong đó Style-U có doanh số cao gần 4 lần Style-W
 -	Quan sát theo chiều thời gian Ngày, đơn hàng thường được đặt vào các ngày đầu và cuối tháng
 -	Quan sát theo chiều thời gian Tháng và Quý, đơn hàng có xu hướng giảm dần
-![image](https://github.com/anhkhoa134/portfolio/assets/108108639/ca9281d2-6f24-4056-9c63-97c87393e19b)
-![image](https://github.com/anhkhoa134/portfolio/assets/108108639/dbba6fb7-592f-478c-92e5-18a57ea7dbf5)
+![image](https://github.com/anhkhoa134/portfolio/assets/108108639/b6a6b0a0-edac-47df-8965-ca55647bb271)
 
