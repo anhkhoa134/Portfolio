@@ -6,8 +6,8 @@ Example Data Analyst Portfolio
 SƠ LƯỢC
 * Tool trực quan hoá và chia sẻ: Power BI
 * Database: AdventureWorks
-  * Về công ty: chuyên kinh doanh xe đạp, quần áo thể thao, phụ kiện, ...
-  * Quy mô: phát triển ở nhiều khu vực, trên 10 cửa hàng và tiếp tục tăng trưởng nhanh
+  * Về công ty: Kinh doanh xe đạp, quần áo thể thao, phụ kiện, ...
+  * Quy mô: Phát triển ở nhiều khu vực, trên 10 cửa hàng và tiếp tục tăng trưởng nhanh
   * Phạm vị dữ liệu: 2011-2014
 
 ### KẾT QUẢ BÁN HÀNG
