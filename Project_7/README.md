@@ -6,5 +6,5 @@ Example Data Analyst Portfolio
 * Data Visualization: Power BI
 
 ### KẾT QUẢ BÁN HÀNG
-![](![image](https://github.com/anhkhoa134/portfolio/assets/108108639/9b5986bc-bc4c-4371-a662-6fbcd23127d5))
+![](https://github.com/anhkhoa134/portfolio/assets/108108639/9b5986bc-bc4c-4371-a662-6fbcd23127d5)
 - 2016 lack of data
