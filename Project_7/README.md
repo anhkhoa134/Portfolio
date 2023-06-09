@@ -9,6 +9,7 @@ SƠ LƯỢC
   * Về công ty: Kinh doanh xe đạp, quần áo thể thao, phụ kiện, ...
   * Quy mô: Phát triển ở nhiều khu vực, trên 10 cửa hàng và tiếp tục tăng trưởng nhanh
   * Phạm vị dữ liệu: 2011-2014
+![image](https://github.com/anhkhoa134/portfolio/assets/108108639/7754243b-6983-4cda-92c3-66a823060edc)
 
 ### KẾT QUẢ BÁN HÀNG
 ![](https://github.com/anhkhoa134/portfolio/assets/108108639/9b5986bc-bc4c-4371-a662-6fbcd23127d5)
