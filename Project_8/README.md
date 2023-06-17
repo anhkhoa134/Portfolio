@@ -8,8 +8,6 @@ QUICKVIEW
 * Dataset over 1400 employees in many departments
 * Include: name, age, department, income, start date, overtime,...
 
-![2023-06-17_073109](https://github.com/anhkhoa134/portfolio/assets/108108639/0f3ac283-1968-4082-b06c-a4fca950e4b2)
-
 ### Home
 ![2023-06-17_073109](https://github.com/anhkhoa134/portfolio/assets/108108639/0f3ac283-1968-4082-b06c-a4fca950e4b2)
 - Most employees work for 1 year and 5 years
