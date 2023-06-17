@@ -22,7 +22,7 @@ QUICKVIEW
 - Satisfaction level (Low, Medium) of employees is almost equal and quite high, interested why these employees are not satisfied with the company
 - Good work performance, 85% complete, to go deeper, you should see the work of these employees and overtime
 
-### Action
+### Detail
 ![2023-06-17_073221](https://github.com/anhkhoa134/portfolio/assets/108108639/d8317c4d-f7db-4160-83c3-872991e00a41)
   
 [This Project’s GitHub Repository](https://github.com/anhkhoa134/portfolio/tree/main/Project_8)
