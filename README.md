@@ -59,3 +59,9 @@ SƠ LƯỢC
 
 ![image](https://github.com/anhkhoa134/portfolio/assets/108108639/7754243b-6983-4cda-92c3-66a823060edc)
 
+# [Project 7: HR Dashboard](https://github.com/anhkhoa134/portfolio/tree/main/Project_8)
+QUICKVIEW
+* Visualization and sharing tool: Power BI
+* Dataset over 1400 employees in many departments
+* Include: name, age, department, income, start date, overtime,...
+![2023-06-17_073109](https://github.com/anhkhoa134/portfolio/assets/108108639/0f3ac283-1968-4082-b06c-a4fca950e4b2)
