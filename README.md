@@ -43,13 +43,7 @@ Example Data Analyst Portfolio
 ![](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_4/images/2022-08-14_074424.png)
 
 #
-# [Project 6: Business analysis of E-commerce company by Power BI](https://github.com/anhkhoa134/portfolio/tree/main/Project_6)
-* Data Visualization: Power BI
-### Overview
-![](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_3/images/2022-08-11_203506.png)
-
-#
-# [Project 7: Retail Dashboard](https://github.com/anhkhoa134/portfolio/tree/main/Project_7)
+# [Project 6: Retail Dashboard](https://github.com/anhkhoa134/portfolio/tree/main/Project_6)
 SƠ LƯỢC
 * Tool trực quan hoá và chia sẻ: Power BI
 * Database: AdventureWorks
@@ -58,6 +52,16 @@ SƠ LƯỢC
   * Phạm vị dữ liệu: 2011-2014
 
 ![image](https://github.com/anhkhoa134/portfolio/assets/108108639/7754243b-6983-4cda-92c3-66a823060edc)
+
+#
+# [Project 7: Bank Dashboard](https://github.com/anhkhoa134/portfolio/tree/main/Project_7)
+SƠ LƯỢC
+* Tool trực quan hoá và chia sẻ: Power BI
+* Database: Dữ liệu giải ngân của Ngân hàng
+  * Quy mô: Phát triển ở nhiều khu vực, trên 20 chi nhánh và tiếp tục tăng trưởng
+  * Phạm vị dữ liệu: Năm 2020-2022, giá trị giải ngân của KH Doanh Nghiệp
+
+![image](https://github.com/anhkhoa134/portfolio/assets/108108639/ea3bca45-d71d-4778-af90-62b0f9f1aa40)
 
 # [Project 8: HR Dashboard](https://github.com/anhkhoa134/portfolio/tree/main/Project_8)
 QUICKVIEW
