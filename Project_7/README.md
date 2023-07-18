@@ -20,11 +20,11 @@ SƠ LƯỢC
 ![](https://github.com/anhkhoa134/portfolio/assets/108108639/90a3c125-e3f2-4034-a96c-7c4bdede0f6c)
 -	Doanh nghiệp nhỏ giá trị giải ngân lớn nhất: So với Doanh nghiệp lớn thì doanh nghiệp nhỏ có số hợp đồng giải ngân gấp 6 lần, doanh nghiệp vừa gấp 3.5 lần, doanh nghiệp siêu nhỏ gấp 1.5 lần 
 - Số lượng khách hàng chủ yếu của Ngân hàng đến từ tập khách hàng vừa và nhỏ, không phải nhóm khách hàng lớn.
-- Nhóm KH Champion có doanh số giải ngần ~2.6 nghìn tỷ đồng, với 662 khoản vay, bình quan ~4 tỷ đồng/khoản vay.
+- Nhóm KH Champion có doanh số giải ngần ~2.6 nghìn tỷ đồng, với 662 khoản vay, bình quân ~4 tỷ đồng/khoản vay.
 
 ### CUSTOMER RETENTION
 ![](https://github.com/anhkhoa134/portfolio/assets/108108639/63fc8372-9f82-40c5-888c-d6c1ca7e1d2e)
--	Từ giữa đến cuối năm 2022, lượng KH mới ngày càng giảm, giá trị giải ngân cũng giảm dần
+-	Từ giữa đến cuối năm 2022, lượng KH mới và quay trở lại ngày càng giảm, giá trị giải ngân cũng giảm dần
 -	Nhìn vào biểu đồ lãi suất liên ngân hàng, thấy rõ lãi suất lập đỉnh từ 2019 đến hiện tại. Giải thích phần nào các Doanh nghiệp giảm hoạt động kinh doanh cũng như giải ngân.
 ![image](https://github.com/anhkhoa134/portfolio/assets/108108639/49820833-4f11-40a3-837c-06d7246b619d)
 
