@@ -1,42 +1,32 @@
 # Portfolio
 Example Data Analyst Portfolio
 [https://anhkhoa134.github.io](https://anhkhoa134.github.io/)
-# [Project 7: Retail Dashboard](https://github.com/anhkhoa134/portfolio/tree/main/Project_7)
+# [Project 7: Bank Dashboard](https://github.com/anhkhoa134/portfolio/tree/main/Project_7)
 
 SƠ LƯỢC
 * Tool trực quan hoá và chia sẻ: Power BI
-* Database: AdventureWorks
-  * Về công ty: Kinh doanh xe đạp, quần áo thể thao, phụ kiện, ...
-  * Quy mô: Phát triển ở nhiều khu vực, trên 10 cửa hàng và tiếp tục tăng trưởng nhanh
-  * Phạm vị dữ liệu: 2011-2014
+* Database: Dữ liệu giải ngân của Ngân hàng
+  * Quy mô: Phát triển ở nhiều khu vực, trên 20 chi nhánh và tiếp tục tăng trưởng
+  * Phạm vị dữ liệu: Năm 2020-2022, giá trị giải ngân của KH Doanh Nghiệp
 
-![image](https://github.com/anhkhoa134/portfolio/assets/108108639/7754243b-6983-4cda-92c3-66a823060edc)
+### OVERVIEW
+![](https://github.com/anhkhoa134/portfolio/assets/108108639/ea3bca45-d71d-4778-af90-62b0f9f1aa40)
+- Gia Lai là đơn vị có giá trị giải ngân tốt nhất ~2.4 nghìn tỷ đồng (chiếm ~50% doanh số vay toàn khu vực)
+- Đối tượng doanh nghiệp vừa có doanh số vay tốt nhất ~ 2.2 nghìn tỷ đồng
+- Lĩnh vực Kinh doanh thương mại có doanh số giải ngân tốt nhất ~ 1.8 nghìn tỷ đồng
+- Lĩnh vực Cho vay tiêu dùng, hoạt động chuyên môn và kinh doanh vận tải kho bãi doanh số giải ngân thấp dưới 10 tỷ đồng
 
-### KẾT QUẢ BÁN HÀNG
-![](https://github.com/anhkhoa134/portfolio/assets/108108639/9b5986bc-bc4c-4371-a662-6fbcd23127d5)
--	Dễ dàng nhận thấy ProductLine-R và Style-U có doanh số cao nhất, trong đó Style-U có doanh số cao gần 4 lần Style-W
--	Quan sát theo chiều thời gian Ngày, đơn hàng thường được đặt vào các ngày đầu và cuối tháng
--	Quan sát theo chiều thời gian Tháng và Quý, đơn hàng có xu hướng giảm dần
-![image](https://github.com/anhkhoa134/portfolio/assets/108108639/b6a6b0a0-edac-47df-8965-ca55647bb271)
+### EVALUATE CUSTOMER QUALITY
+![](https://github.com/anhkhoa134/portfolio/assets/108108639/90a3c125-e3f2-4034-a96c-7c4bdede0f6c)
+-	Doanh nghiệp nhỏ giá trị giải ngân lớn nhất: So với Doanh nghiệp lớn thì doanh nghiệp nhỏ có số hợp đồng giải ngân gấp 6 lần, doanh nghiệp vừa gấp 3.5 lần, doanh nghiệp siêu nhỏ gấp 1.5 lần 
+- Số lượng khách hàng chủ yếu của Ngân hàng đến từ tập khách hàng vừa và nhỏ, không phải nhóm khách hàng lớn.
+- Nhóm KH Champion có doanh số giải ngần ~2.6 nghìn tỷ đồng, với 662 khoản vay, bình quan ~4 tỷ đồng/khoản vay.
 
-### PHÂN TÍCH DOANH THU
-![image](https://github.com/anhkhoa134/portfolio/assets/108108639/c0a7b593-000b-4549-b37c-5d8df020bc66)
--	Doanh thu tăng 68% so với năm trước, nhìn chung mỗi tháng đều tăng rõ rệt, xong với KPI đặt ra vẫn chưa đạt
--	Doanh thu mỗi Khu vực đều tăng đáng kể, nhiều Khu vực còn tăng gấp đôi so với năm trước (Khu vực 7, 8, 9, 10)
-
-### PHÂN TÍCH KHÁCH HÀNG
-![image](https://github.com/anhkhoa134/portfolio/assets/108108639/5dfe2034-3832-4e9c-9d0a-29e94095f974)
--	Khách hàng mua thường xuyên chiếm 73.79%, chứng tỏ việc kinh doanh những tháng gần đây rất tốt. Nhưng KH trung thành rất ít, điều này chứng tỏ việc chăm sóc KH, tiếp thu ý kiến cải thiện sản phẩm và chương trình khuyến mãi KH cũ kém.
--	Những Khách hàng cần quan tâm đã được Highlight, cần đặc biệt thiết lập chiến dịch riêng cho những đối tượng này.
-
-### PHÂN TÍCH TÁI MUA HÀNG
-![image](https://github.com/anhkhoa134/portfolio/assets/108108639/d4c91aab-acbd-41bd-aefa-9ed3475f9863)
--	Những năm đầu, lượng KH mới và tỷ lệ giữ chân KH rất ít
--	Quan sát thời gian gần thì thấy KH mới và tỷ lệ giữ KH cao -> điều này thúc đẩy doanh số tăng đột biến (1 phần chứng minh % tăng trưởng so với năm trước tăng 68%)
-![image](https://github.com/anhkhoa134/portfolio/assets/108108639/4fe01d62-3001-4ac0-8595-d84a65882baa)
-
-### CHI TIẾT DỮ LIỆU
-![image](https://github.com/anhkhoa134/portfolio/assets/108108639/8edecb9d-d477-478c-abd1-a1726dd2748d)
+### CUSTOMER RETENTION
+![](https://github.com/anhkhoa134/portfolio/assets/108108639/63fc8372-9f82-40c5-888c-d6c1ca7e1d2e)
+-	Từ giữa đến cuối năm 2022, lượng KH mới ngày càng giảm, giá trị giải ngân cũng giảm dần
+-	Nhìn vào biểu đồ lãi suất liên ngân hàng, thấy rõ lãi suất lập đỉnh từ 2019 đến hiện tại. Giải thích phần nào các Doanh nghiệp giảm hoạt động kinh doanh cũng như giải ngân.
+![image](https://github.com/anhkhoa134/portfolio/assets/108108639/49820833-4f11-40a3-837c-06d7246b619d)
 
 [This Project’s GitHub Repository](https://github.com/anhkhoa134/portfolio/tree/main/Project_7)
 
