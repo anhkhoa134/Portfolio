@@ -34,6 +34,7 @@ Example Data Analyst Portfolio
 ![2023-08-04_165332](https://github.com/anhkhoa134/portfolio/assets/108108639/3ce9b2c7-d3a3-4ffe-b042-0b77913ba0a1)
 
 * Check missing values
+
 ![2023-08-04_165413](https://github.com/anhkhoa134/portfolio/assets/108108639/d3c73830-6652-437e-a60c-11b93d463d62)
 
 * Check duplicate: no duplicate
