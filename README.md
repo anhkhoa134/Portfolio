@@ -30,17 +30,10 @@ Example Data Analyst Portfolio
 ![2022-12-04_202643](https://user-images.githubusercontent.com/108108639/215137534-5cb2e6c1-0c12-4bf0-82dd-80a58fb02d0c.png)
 
 # 
-# [Project 4: Using selenium to scrape website data: Tiki, Mogi, Backmarket, Masothue](https://github.com/anhkhoa134/portfolio/tree/main/Project_4)
+# [Project 5: Using selenium to scrape website data: Tiki, Mogi, Backmarket, Masothue](https://github.com/anhkhoa134/portfolio/tree/main/Project_5)
 * Data Crawling: Selenium
 * Data Processing: Pandas, Regex
 ![](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_2/images/2022-06-30_004602.png)
-
-#
-# [Project 5: Salary Analysis Of India 2022 By Tableau](https://github.com/anhkhoa134/portfolio/tree/main/Project_5)
-* Data Visualization: Tableau
-* [Dashboard](https://public.tableau.com/app/profile/le.anh.khoa/viz/SalaryIndia/Salary2022inIndia?publish=yes)
-### INDIA SALARY OVERVIEW
-![](https://raw.githubusercontent.com/anhkhoa134/portfolio/main/Project_4/images/2022-08-14_074424.png)
 
 #
 # [Project 6: Retail Dashboard](https://github.com/anhkhoa134/portfolio/tree/main/Project_6)
