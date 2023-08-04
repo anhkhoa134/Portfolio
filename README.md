@@ -30,6 +30,12 @@ Example Data Analyst Portfolio
 ![2022-12-04_202643](https://user-images.githubusercontent.com/108108639/215137534-5cb2e6c1-0c12-4bf0-82dd-80a58fb02d0c.png)
 
 # 
+# [Project 4: Automatically Exploratory Data Analysis (EDA) any dataset](https://github.com/anhkhoa134/portfolio/tree/main/Project_4)
+* Data Processing: pyodbc, os, pandas, numpy
+* Data Visualization: matplotlib, seaborn, plotly, pandas_profiling, sweetviz, pandasgui
+![](https://github-production-user-asset-6210df.s3.amazonaws.com/108108639/258454229-57bc03dc-81c8-408d-a745-5851f5565100.png)
+
+# 
 # [Project 5: Using selenium to scrape website data: Tiki, Mogi, Backmarket, Masothue](https://github.com/anhkhoa134/portfolio/tree/main/Project_5)
 * Data Crawling: Selenium
 * Data Processing: Pandas, Regex
