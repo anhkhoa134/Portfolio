@@ -42,6 +42,7 @@ Example Data Analyst Portfolio
 ![2023-08-04_165514](https://github.com/anhkhoa134/portfolio/assets/108108639/978996aa-7773-456c-8cad-2de08fd0dcc9)
 
 * Distribution
+
 ![2023-08-04_165548](https://github.com/anhkhoa134/portfolio/assets/108108639/6fbb151a-0bbb-4c45-a8bd-c33860683b2a)
 ![2023-08-04_165615](https://github.com/anhkhoa134/portfolio/assets/108108639/afa363bc-3cf0-4c22-8c8c-b7671f5fb5a3)
 ![2023-08-04_165635](https://github.com/anhkhoa134/portfolio/assets/108108639/998a1185-65b4-4b71-afcf-224b8f533bd0)
