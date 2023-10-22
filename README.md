@@ -68,3 +68,13 @@ QUICKVIEW
 * Dataset over 1400 employees in many departments
 * Include: name, age, department, income, start date, overtime,...
 ![2023-06-17_073109](https://github.com/anhkhoa134/portfolio/assets/108108639/0f3ac283-1968-4082-b06c-a4fca950e4b2)
+
+# [Project 9: Financial Dashboard](https://github.com/anhkhoa134/portfolio/tree/main/Project_9)
+SƠ LƯỢC
+* Tool trực quan hoá và chia sẻ: Power BI
+* Database: Crawl dữ liệu từ trang Cafef
+  * Dữ liệu gồm Báo cáo tài chính và Cân đối kế toán của hơn 100 mã cố phiếu thuộc VN100
+  * Sau khi xử lý dữ liệu, còn 2 Bảng: 1 Bảng FACT gồm dữ liệu BCTC+CĐKT, 1 Bảng DIM chứa tất cả mã cổ phiếu cùng lĩnh vực, ngành công nghiệp,... tương ứng
+  * Phạm vị dữ liệu: 2020-2023
+
+![Hinh Dashboard](https://github.com/anhkhoa134/portfolio/assets/108108639/044714e6-c279-4452-843b-2e1d201f9f25)
