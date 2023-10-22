@@ -3,7 +3,7 @@ Example Data Analyst Portfolio
 [https://anhkhoa134.github.io](https://anhkhoa134.github.io/)
 # [Project 9: Financial Dashboard](https://github.com/anhkhoa134/portfolio/tree/main/Project_9)
 
-SƠ LƯỢC
+### SƠ LƯỢC
 * Tool trực quan hoá và chia sẻ: Power BI
 * Database: Crawl dữ liệu từ trang Cafef
   * Dữ liệu gồm Báo cáo tài chính và Cân đối kế toán của hơn 100 mã cố phiếu thuộc VN100
